@@ -1,0 +1,880 @@
+	#Rank	University	Town Location
+0	840	Abhilashi University	Chailchowk
+1	221	Acharya N.G. Ranga Agricultural University	Hyderabad
+2	154	Acharya Nagarjuna University	Guntur
+3	607	Adamas University	Barasat
+4	749	Adesh University	Bathinda
+5	335	Adikavi Nannaya University	Rajahmundry
+6	287	Ahmedabad University	Ahmedabad
+7	560	AISECT University	Mendua Village
+8	717	Ajeenkya D.Y. Patil University	Lohegaon
+9	820	Akal University	Bathinda
+10	706	AKS University	Satna
+11	149	Alagappa University	Karaikudi
+12	721	Al-Falah University	Faridabad
+13	478	Aliah University	Kolkata
+14	39	Aligarh Muslim University	Aligarh ...
+15	184	All India Institute of Medical Sciences Bhopal	Bhopal
+16	113	All India Institute of Medical Sciences Bhubaneswar	Bhubaneswar
+17	61	All India Institute of Medical Sciences Delhi	New Delhi
+18	168	All India Institute of Medical Sciences Jodhpur	Jodhpur
+19	259	All India Institute of Medical Sciences Patna	Patna
+20	132	All India Institute of Medical Sciences Raipur	Raipur
+21	159	All India Institute of Medical Sciences Rishikesh	Rishikesh
+22	425	Allahabad State University	Allahabad
+23	273	Alliance University	Bangalore
+24	294	Ambedkar University Delhi	New Delhi
+25	36	Amity University	Noida ...
+26	20	Amrita Vishwa Vidyapeetham	Coimbatore ...
+27	246	Anand Agricultural University	Anand
+28	790	Anant National University	Ahmedabad
+29	82	Andhra University	Visakhapatnam
+30	11	Anna University	Chennai
+31	77	Annamalai University	Chidambaram
+32	441	Ansal University	Gurgaon
+33	549	AP Goyal Shimla University	Shimla
+34	436	Apeejay Stya University	Gurgaon
+35	779	Apex Professional University	Pasighat
+36	90	APJ Abdul Kalam Technological University	Thiruvananthapuram
+37	861	Arka Jain University	Gamharia
+38	731	Arni University	Kathgarh
+39	625	Arunachal University of Studies	Namsai
+40	773	Arunodaya University	Itanagar
+41	439	Aryabhatta Knowledge University	Patna
+42	268	Ashoka University	Sonipat
+43	290	Assam Agricultural University	Jorhat
+44	358	Assam Don Bosco University	Guwahati
+45	585	Assam Down Town University	Guwahati
+46	799	Assam Rajiv Gandhi University of Cooperative Management	Sivasagar
+47	675	Assam Science and Technology University	Guwahati
+48	234	Assam University	Silchar
+49	815	Assam Women's University	Jorhat
+50	728	Atal Bihari Vajpayee Hindi Vishwavidyalaya	Bhopal
+51	606	AURO University	Surat
+52	691	Avantika University	Ujjain
+53	451	Avinashilingam University	Coimbatore
+54	438	Awadhesh Pratap Singh University	Rewa
+55	594	Ayush and Health Sciences University of Chhattisgarh	Raipur
+56	200	Azim Premji University	Bangalore
+57	338	B.S. Abdur Rahman University	Chennai
+58	161	Baba Farid University of Health Sciences	Faridkot
+59	544	Baba Ghulam Shah Badhshah University	Rajouri
+60	780	Baba Mastnath University	Rohtak
+61	385	Babasaheb Bhimrao Ambedkar Bihar University	Muzaffarpur
+62	209	Babasaheb Bhimrao Ambedkar University	Lucknow
+63	566	Babu Banarasi Das University	Lucknow
+64	598	Baddi University of Emerging Sciences and Technologies	Baddi
+65	736	BAHRA University	Waknaghat ...
+66	55	Banaras Hindu University	Varanasi
+67	279	Banasthali Vidyapith	Banasthali ...
+68	674	Banda University of Agriculture and Technology	Banda
+69	45	Bangalore University	Bangalore
+70	722	Bankura University	Bankura
+71	859	Bareilly International University	Bareilly
+72	179	Barkatullah University	Bhopal
+73	653	Bastar Vishwavidyalaya	Bastar
+74	872	Bengaluru North University	Kolar
+75	493	Bennett University	Greater Noida
+76	325	Berhampur University	Berhampur
+77	545	Bhagat Phool Singh Mahila Vishwavidyalaya	Khanpur Kalan
+78	486	Bhagwant University	Ajmer
+79	565	Bhakta Kavi Narsinh Mehta University	Junagadh
+80	201	Bharath Institute of Higher Education and Research	Chennai
+81	112	Bharathiar University	Coimbatore
+82	106	Bharathidasan University	Tiruchirappalli
+83	151	Bharati Vidyapeeth University	Pune ...
+84	844	Bhartiya Skill Development University	Jaipur
+85	711	Bhatkhande Music Institute	Lucknow
+86	835	Bhupal Nobles University	Udaipur
+87	761	Bhupendra Narayan Mandal University	Madhepura
+88	278	Bidhan Chandra Krishi Vishwavidyalaya	Mohanpur
+89	587	Bihar Agricultural University	Bhagalpur
+90	205	Biju Patnaik University of Technology	Rourkela ...
+91	182	Bilaspur Vishwavidyalaya	Bilaspur
+92	67	Birla Institute of Technology	Ranchi ...
+93	16	Birla Institute of Technology and Science	Pilani ...
+94	445	Birsa Agricultural University	Ranchi
+95	570	BLDE University	Bijapur
+96	433	BML Munjal University	Gurgaon
+97	541	Bodoland University	Kokrajhar
+98	524	Brainware University	Barasat
+99	136	Bundelkhand University	Jhansi
+100	699	C.U. Shah University	Wadhwan
+101	673	Calorx Teachers University	Ahmedabad
+102	692	Career Point University	Hamirpur
+103	615	Central Agricultural University	Imphal
+104	391	Central Institute of Fisheries Education	Mumbai
+105	309	Central University of Gujarat	Gandhinagar
+106	293	Central University of Haryana	Mahendragarh
+107	269	Central University of Himachal Pradesh	Kangra
+108	522	Central University of Jammu	Jammu
+109	264	Central University of Jharkhand	Ranchi
+110	317	Central University of Karnataka	Gulbarga
+111	219	Central University of Kashmir	Srinagar
+112	369	Central University of Kerala	Kasaragod
+113	446	Central University of Orissa	Koraput
+114	480	Central University of Punjab	Bathinda
+115	258	Central University of Rajasthan	Ajmer
+116	292	Central University of South Bihar	Patna
+117	239	Central University of Tamil Nadu	Thiruvarur
+118	609	Central University of Tibetan Studies	Varanasi
+119	271	Centurion University of Technology and Management	Bhubaneswar
+120	143	CEPT University	Ahmedabad
+121	539	Chanakya National Law University	Patna
+122	79	Chandigarh University	Mohali ...
+123	496	Chandra Shekhar Azad University of Agriculture and Technology	Kanpur
+124	508	Charotar University of Science and Technology	Anand
+125	693	Chaudhary Bansi Lal University	Bhiwani
+126	332	Chaudhary Charan Singh Haryana Agricultural University	Hisar
+127	91	Chaudhary Charan Singh University	Meerut
+128	427	Chaudhary Devi Lal University	Sirsa
+129	423	Chaudhary Ranbir Singh University	Jind
+130	119	Chennai Mathematical Institute	Chennai
+131	48	Chhatrapati Shahu Ji Maharaj University	Kalyanpur
+132	670	Chhattisgarh Kamdhenu Vishwavidyalaya	Raipur
+133	146	Chhattisgarh Swami Vivekananda Technical University	Bhilai
+134	676	Children's University	Gandhinagar
+135	665	Chitkara University	Kalujhanda
+136	100	Chitkara University	Punjab
+137	33	Christ University	Bangalore
+138	814	Cluster University of Jammu	Jammu
+139	794	CMJ University	Jorabat
+140	697	CMR University	Bangalore
+141	65	Cochin University of Science and Technology	Kochi
+142	595	Cooch Behar Panchanan Barma University	Cooch Behar
+143	640	Cotton University	Guwahati
+144	85	CSK Himachal Pradesh Krishi Vishvavidyalaya	Palampur
+145	662	Dakshina Bharat Hindi Prachar Sabha	Chennai
+146	579	Damodaram Sanjivayya National Law University	Visakhapatnam ...
+147	563	Datta Meghe Institute of Medical Sciences	Nagpur
+148	532	DAV University	Jalandhar
+149	547	Davangere University	Davangere
+150	253	Dayalbagh Educational Institute	Agra
+151	719	Dayananda Sagar University	Bangalore
+152	602	Deccan College Post-Graduate and Research Institute	Pune
+153	242	Deen Dayal Upadhyay Gorakhpur University	Gorakhpur
+154	331	Deenbandhu Chhotu Ram University of Science and Technology	Murthal
+155	642	Delhi Pharmaceutical Sciences and Research University	New Delhi
+156	96	Delhi Technological University	New Delhi
+157	627	Desh Bhagat University	Mandi Gobindgarh
+158	485	Dev Sanskriti Vishwavidyalaya	Shantikunj
+159	62	Devi Ahilya Vishwavidyalaya	Indore
+160	340	Dharmsinh Desai University	Nadiad
+161	80	Dhirubhai Ambani Institute of Information and Communication Technology	Gandhinagar
+162	771	Diamond Harbour Women's University	Sarisha
+163	152	Dibrugarh University	Dibrugarh
+164	303	DIT University	Dehradun
+165	497	Doon University	Dehradun
+166	604	Dr K.N. Modi University	Newai
+167	800	Dr. A.P.J Abdul Kalam University	Indore
+168	14	Dr. A.P.J. Abdul Kalam Technical University	Lucknow
+169	107	Dr. B R Ambedkar National Institute of Technology Jalandhar	Jalandhar
+170	489	Dr. B.R. Ambedkar University	Etcherla
+171	751	Dr. B.R. Ambedkar University of Social Sciences	Indore
+172	223	Dr. Babasaheb Ambedkar Marathwada University	Aurangabad
+173	322	Dr. Babasaheb Ambedkar Technological University	Lonere
+174	396	Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth	Dapoli
+175	207	Dr. Bhimrao Ambedkar University	Agra
+176	381	Dr. C.V. Raman University	Bilaspur
+177	387	Dr. D.Y. Patil Vidyapeeth	Pune
+178	226	Dr. Hari Singh Gour University	Sagar
+179	432	Dr. M.G.R. Educational and Research Institute	Chennai
+180	267	Dr. N.T.R. University of Health Sciences	Vijayawada
+181	415	Dr. Panjabrao Deshmukh Krishi Vidyapeeth	Akola
+182	444	Dr. Rajendra Prasad Central Agriculture University	Samastipur
+183	173	Dr. Ram Manohar Lohia Avadh University	Faizabad
+184	468	Dr. Ram Manohar Lohiya National Law University	Lucknow
+185	527	Dr. Sarvepalli Radhakrishnan Rajasthan Ayurved University	Jodhpur
+186	280	Dr. Shakuntala Misra Rehabilitation University	Lucknow
+187	828	Dr. Vishwanath Karad MIT World Peace University	Pune
+188	386	Dr. Y.S. Parmar University of Horticulture and Forestry	Nauni
+189	367	Dr.Y.S.R. Horticultural University	Tadepalligudem
+190	472	Dravidian University	Kuppam
+191	552	EIILM University	Jorethang
+192	823	Era University	Lucknow
+193	655	Eternal University	Baru Sahib
+194	542	Fakir Mohan University	Balasore ...
+195	300	Flame University	Pune
+196	829	Forest Research Institute	Dehradun
+197	855	G H Raisoni University	Saikheda
+198	767	G.L.S. University	Ahmedabad
+199	193	Galgotias University	Noida
+200	72	Gandhi Institute of Technology and Management	Visakhapatnam
+201	285	Gandhigram Rural University	Gandhigram
+202	776	Gangadhar Meher University	Sambalpur
+203	328	Ganpat University	Mehsana
+204	513	Garden City University	Bangalore
+205	83	Gauhati University	Guwahati
+206	319	Gautam Buddha University	Greater Noida
+207	454	GD Goenka University	Gurgaon
+208	571	Geetanjali University	Udaipur
+209	360	GLA University	Chaumuhan
+210	559	Glocal University	Saharanpur
+211	533	GNA University	Phagwara
+212	185	Goa University	Taleigao
+213	520	Gokhale Institute of Politics and Economics	Pune
+214	572	Gondwana University	Gadchiroli
+215	169	Govind Ballabh Pant University of Agriculture and Technology	Pantnagar
+216	763	Govind Guru Tribal University	Banswara
+217	555	Graphic Era Hill University	Clement Town
+218	416	Graphic Era University	Dehradun
+219	708	GSFC University	Vadodara
+220	373	Gujarat Ayurved University	Jamnagar
+221	516	Gujarat Forensic Sciences University	Gandhinagar
+222	206	Gujarat National Law University	Gandhinagar
+223	18	Gujarat Technological University	Ahmedabad
+224	133	Gujarat University	Ahmedabad
+225	852	Gujarat University of Transplantation Sciences	Ahmedabad
+226	361	Gujarat Vidyapith	Ahmedabad ...
+227	534	Gulbarga University	Gulbarga
+228	422	Guru Angad Dev Veterinary and Animal Sciences University	Ludhiana
+229	196	Guru Ghasidas Vishwavidyalaya	Bilaspur
+230	92	Guru Gobind Singh Indraprastha University	New Delhi
+231	277	Guru Jambheshwar University of Science and Technology	Hisar
+232	705	Guru Kashi University	Talwandi Sabo
+233	145	Guru Nanak Dev University	Amritsar
+234	668	Guru Ravidas Ayurved University	Hoshiarpur
+235	412	Gurukul Kangri Vishwavidyalaya	Haridwar
+236	452	Harcourt Butler Technical University	Kanpur
+237	804	Haridev Joshi University of Journalism and Mass Communication	Jaipur
+238	824	Haryana Vishwakarma Skill University	Faridabad
+239	188	Hemchandracharya North Gujarat University	Patan
+240	202	Hemwati Nandan Bahuguna Garhwal University	Srinagar
+241	622	Hemwati Nandan Bahuguna Medical University	Dehradun
+242	316	Hidayatullah National Law University	Raipur
+243	377	Himachal Pradesh Technical University	Hamirpur
+244	177	Himachal Pradesh University	Shimla
+245	854	Himalayan Garhwal University	Pokhara Village
+246	453	Himalayan University	Itanagar
+247	646	Himgiri ZEE University	Dehradun
+248	270	Hindustan Institute of Technology and Science	Chennai
+249	355	Homi Bhabha National Institute	Mumbai
+250	589	ICFAI University, Dehradun	Dehradun
+251	805	ICFAI University, Himachal Pradesh	Baddi
+252	742	ICFAI University, Jaipur	Jaipur
+253	716	ICFAI University, Jharkhand	Ranchi
+254	787	ICFAI University, Meghalaya	Tura
+255	775	ICFAI University, Mizoram	Aizawl
+256	786	ICFAI University, Nagaland	Dimapur
+257	796	ICFAI University, Raipur	Durg
+258	636	ICFAI University, Sikkim	Gangtok
+259	511	ICFAI University, Tripura	Agartala
+260	768	IEC University	Kalujhanda
+261	578	IFHE Hyderabad	Hyderabad
+262	339	IFTM University	Moradabad
+263	475	IIHMR University	Jaipur
+264	783	IIMT University	Meerut
+265	613	IMS Unison University	Dehradun
+266	116	Indian Agricultural Research Institute	New Delhi
+267	75	Indian Institute of Engineering Science and Technology, Shibpur	Howrah ...
+268	50	Indian Institute of Foreign Trade	New Delhi
+269	41	Indian Institute of Information Technology Allahabad	Allahabad
+270	240	Indian Institute of Information Technology and Management Gwalior	Gwalior
+271	274	Indian Institute of Information Technology, Design and Manufacturing	Chennai
+272	612	Indian Institute of Information Technology, Guwahati	Guwahati
+273	713	Indian Institute of Information Technology, Kalyani	Kalyani
+274	807	Indian Institute of Information Technology, Kottayam	Kottayam
+275	616	Indian Institute of Information Technology, Lucknow	Allahabad
+276	741	Indian Institute of Information Technology, Manipur	Imphal
+277	597	Indian Institute of Information Technology, Sri City	Sri City
+278	769	Indian Institute of Information Technology, Una	Una
+279	576	Indian Institute of Information Technology, Vadodara	Gandhinagar
+280	845	Indian Institute of Public Health	Gandhinagar
+281	15	Indian Institute of Science	Bangalore
+282	139	Indian Institute of Science Education and Research, Bhopal	Bhopal
+283	118	Indian Institute of Science Education and Research, Kolkata	Mohanpur
+284	172	Indian Institute of Science Education and Research, Mohali	Mohali
+285	98	Indian Institute of Science Education and Research, Pune	Pune
+286	137	Indian Institute of Science Education and Research, Thiruvananthapuram	Thiruvananthapuram
+287	103	Indian Institute of Space Science and Technology	Thiruvananthapuram
+288	634	Indian Institute of Teacher Education	Gandhinagar
+289	109	Indian Institute of Technology Bhubaneswar	Bhubaneswar
+290	1	Indian Institute of Technology Bombay	Mumbai
+291	7	Indian Institute of Technology Delhi	New Delhi
+292	56	Indian Institute of Technology Gandhinagar	Chandkheda
+293	5	Indian Institute of Technology Guwahati	Guwahati
+294	54	Indian Institute of Technology Hyderabad	Eddumailaram
+295	101	Indian Institute of Technology Indore	Indore
+296	171	Indian Institute of Technology Jodhpur	Jodhpur
+297	2	Indian Institute of Technology Kanpur	Kanpur
+298	9	Indian Institute of Technology Kharagpur	Kharagpur
+299	3	Indian Institute of Technology Madras	Chennai
+300	97	Indian Institute of Technology Mandi	Mandi
+301	155	Indian Institute of Technology Patna	Patna
+302	29	Indian Institute of Technology Roorkee	Roorkee
+303	87	Indian Institute of Technology Ropar	Rupnagar
+304	27	Indian Institute of Technology, BHU	Varanasi
+305	183	Indian Maritime University	Chennai
+306	94	Indian School of Mines	Dhanbad
+307	44	Indian Statistical Institute	Kolkata ...
+308	254	Indian Veterinary Research Institute	Bareilly ...
+309	556	Indira Gandhi Delhi Technical University for Women	New Delhi
+310	140	Indira Gandhi Institute of Development Research	Mumbai
+311	482	Indira Gandhi Institute of Medical Sciences, Sheikhpura	Patna
+312	235	Indira Gandhi Krishi Vishwavidyalaya	Raipur
+313	252	Indira Gandhi National Tribal University	Amarkantak
+314	822	Indira Gandhi Technological and Medical Sciences University	Ziro
+315	686	Indira Gandhi University, Meerpur	Rewari
+316	701	Indira Kala Sangeet Vishwavidyalaya	Khairagarh
+317	148	Indraprastha Institute of Information Technology	New Delhi
+318	Un	Indrashil University	Dholera
+319	781	Indus International University	Bathu
+320	540	Indus University	Ahmedabad
+321	816	Institute of Advanced Research	Gandhinagar
+322	490	Institute of Advanced Studies in Education	Sardarshahr
+323	232	Institute of Chemical Technology	Mumbai
+324	528	Institute of Infrastructure, Technology, Research and Management	Ahmedabad
+325	318	Integral University	Lucknow
+326	204	International Institute for Population Sciences	Mumbai
+327	127	International Institute of Information Technology Bangalore	Bangalore
+328	434	International Institute of Information Technology, Bhubaneswar	Bhubaneswar
+329	22	International Institute of Information Technology, Hyderabad	Hyderabad
+330	678	International Institute of Information Technology, Naya Raipur	Naya Raipur
+331	363	Invertis University	Bareilly
+332	818	ISBM University	Gariyaband
+333	529	Islamic University of Science and Technology	Pulwama
+334	390	ITM University Gwalior	Gwalior
+335	747	ITM University Raipur	Raipur
+336	789	ITM Vocational University	Waghodia
+337	71	Jadavpur University	Kolkata
+338	548	Jagadguru Ramanandacharya Rajasthan Sanskrit University	Jaipur
+339	723	Jagadguru Rambhadracharya Handicapped University	Chitrakoot
+340	465	Jagadguru Sri Shivarathreeswara University	Mysore ...
+341	687	Jagan Nath University	Jhajjar
+342	551	Jagannath University	Jaipur
+343	592	Jagran Lakecity University	Bhopal
+344	341	Jai Narain Vyas University	Jodhpur
+345	437	Jai Prakash Vishwavidyalaya	Chapra
+346	251	Jain University	Bangalore
+347	471	Jain Vishva Bharati Institute	Ladnun
+348	210	Jaipur National University	Jaipur
+349	156	Jamia Hamdard	New Delhi
+350	63	Jamia Millia Islamia	New Delhi
+351	727	Jananayak Chandrashekhar University	Ballia
+352	405	Janardan Rai Nagar Rajasthan Vidhyapeeth University	Udaipur
+353	150	Jawaharlal Institute of Postgraduate Medical Education and Research	Puducherry
+354	477	Jawaharlal Nehru Architecture and Fine Arts University	Hyderabad
+355	88	Jawaharlal Nehru Centre for Advanced Scientific Research	Bangalore
+356	357	Jawaharlal Nehru Krishi Vishwavidyalaya	Jabalpur
+357	64	Jawaharlal Nehru Technological University	Hyderabad ...
+358	195	Jawaharlal Nehru Technological University, Anantapur	Anantapur
+359	120	Jawaharlal Nehru Technological University, Kakinada	Kakinada
+360	13	Jawaharlal Nehru University	New Delhi
+361	473	Jayoti Vidyapeeth Women's University	Jaipur
+362	231	Jaypee Institute of Information Technology	Noida
+363	784	Jaypee University Anoopshahr	Anupshahr
+364	469	Jaypee University of Engineering and Technology	Raghogarh
+365	371	Jaypee University of Information Technology	Waknaghat
+366	476	JECRC University	Jaipur
+367	685	Jharkhand Rai University	Ranchi
+368	862	Jharkhand Raksha Shakti University	Ranchi
+369	743	JIS University	Agarpara
+370	128	Jiwaji University	Gwalior
+371	467	JK Lakshmipat University	Jaipur
+372	561	Jodhpur National University	Jodhpur
+373	738	JS University	Shikohabad
+374	827	JSS Science and Technology University	Mysore
+375	353	Junagadh Agricultural University	Junagadh
+376	37	K L University	Vaddeswaram
+377	860	K.K. University	Biharsharif
+378	623	K.R. Mangalam University	Gurgaon
+379	644	Kadi Sarva Vishwavidyalaya	Gandhinagar
+380	227	Kakatiya University	Warangal ...
+381	304	Kalasalingam University	Krishnankoil
+382	650	Kalinga University	Raipur
+383	753	Kamdhenu University	Gandhinagar
+384	651	Kameshwar Singh Darbhanga Sanskrit University	Darbhanga
+385	591	Kannada University	Vidyaranya
+386	218	Kannur University	Kannur
+387	263	Karnatak University	Dharwad
+388	811	Karnataka Janapada Vishwavidyalaya	Shiggaon
+389	614	Karnataka Sanskrit University	Bangalore
+390	466	Karnataka State Law University	Hubli
+391	864	Karnataka State Rural Development and Panchayat Raj University	Gadag
+392	590	Karnataka State Women's University	Bijapur ...
+393	795	Karnataka Veterinary, Animal and Fisheries Sciences University	Bidar
+394	754	Karnavati University	Gandhinagar
+395	755	Karpagam Academy of Higher Education	Coimbatore
+396	42	Karunya University	Coimbatore
+397	525	Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya	Nagpur
+398	599	Kazi Nazrul University	Asansol
+399	643	Kaziranga University	Jorhat
+400	117	Kerala Agricultural University	Thrissur ...
+401	577	Kerala Kalamandalam	Cheruthuruthi
+402	514	Kerala University of Fisheries and Ocean Studies	Kochi
+403	409	Kerala University of Health Sciences	Thrissur
+404	428	Kerala Veterinary and Animal Sciences University	Pookode
+405	817	Khallikote University	Berhampur
+406	868	Khalsa University	Amritsar
+407	679	Khwaja Moinuddin Chishti Urdu, Arabi-Farsi University	Lucknow
+408	66	KIIT University	Bhubaneswar
+409	222	King George's Medical University	Lucknow
+410	652	KLE Technological University	Hubli
+411	418	KLE University	Belgaum ...
+412	484	Kolhan University	Chaibasa
+413	499	Krantiguru Shyamji Krishna Verma Kachchh University	Bhuj
+414	631	Krishna Institute of Medical Sciences	Karad
+415	324	Krishna University	Machilipatnam
+416	806	KSGH Music and Performing Arts University	Mysore
+417	766	Kumar Bhaskar Varma Sanskrit and Ancient Studies University	Nalbari
+418	241	Kumaun University	Nainital
+419	47	Kurukshetra University	Kurukshetra ...
+420	733	Kushabhau Thakre Patrakarita Avam Jansanchar University	Raipur
+421	262	Kuvempu University	Shimoga
+422	455	Lakshmibai National Institute of Physical Education	Gwalior
+423	832	Lakulish Yoga University	Ahmedabad
+424	523	Lala Lajpat Rai University of Veterinary and Animal Sciences	Hisar
+425	194	Lalit Narayan Mithila University	Darbhanga
+426	582	Lingaya's University	Faridabad
+427	847	LNCT University	Bhopal
+428	8	Lovely Professional University	Phagwara
+429	70	M.J.P. Rohilkhand University	Bareilly
+430	393	M.S. Ramaiah University of Applied Sciences	Bangalore
+431	307	Madan Mohan Malaviya University of Technology	Gorakhpur
+432	732	Madhav University	Pindwara
+433	138	Madurai Kamaraj University	Madurai
+434	288	Magadh University	Bodh Gaya
+435	802	Mahapurusha Srimanta Sankaradeva Viswavidyalaya	Nagaon
+436	759	Maharaja Agrasen University	Baddi
+437	841	Maharaja Bir Bikram University	Agartala
+438	600	Maharaja Chhatrasal Bundelkhand University	Chhatarpur
+439	186	Maharaja Ganga Singh University	Bikaner
+440	295	Maharaja Krishnakumarsinhji Bhavnagar University	Bhavnagar
+441	443	Maharaja Ranjit Singh Punjab Technical University	Bathinda
+442	518	Maharaja Surajmal Brij University	Bharatpur
+443	474	Maharana Pratap University of Agriculture and Technology	Udaipur
+444	501	Maharashtra Animal and Fishery Sciences University	Nagpur
+445	858	Maharashtra National Law University, Aurangabad	Aurangabad
+446	830	Maharashtra National Law University, Mumbai	Mumbai
+447	812	Maharashtra National Law University, Nagpur	Nagpur
+448	197	Maharashtra University of Health Sciences	Nashik
+449	825	Maharishi Arvind University, Jaipur	Mundiya Purohitan
+450	95	Maharishi Dayanand University	Rohtak
+451	620	Maharishi Mahesh Yogi Vedic Vishwavidyalaya	Katni ...
+452	255	Maharishi Markandeshwar University, Mullana	Mullana ...
+453	762	Maharishi Markandeshwar University, Sadopur	Ambala ...
+454	756	Maharishi Markandeshwar University, Solan	Solan ...
+455	757	Maharishi University	Lucknow
+456	707	Maharishi University of Management and Technology	Bilaspur ...
+457	375	Maharshi Dayanand Saraswati University	Ajmer
+458	688	Maharshi Panini Sanskrit Vishwavidyalaya	Ujjain
+459	327	Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya	Wardha
+460	450	Mahatma Gandhi Central University, Motihari	Motihari
+461	696	Mahatma Gandhi Chitrakoot Gramoday Vishwavidyalaya	Chitrakoot
+462	187	Mahatma Gandhi Kashi Vidyapeeth	Varanasi ...
+463	49	Mahatma Gandhi University	Kottayam
+464	737	Mahatma Gandhi University of Medical Sciences and Technology	Jaipur
+465	410	Mahatma Gandhi University, Meghalaya	Khanapara
+466	494	Mahatma Gandhi University, Nalgonda	Nalgonda
+467	700	Mahatma Jyoti Rao Phoole University	Jaipur
+468	372	Mahatma Phule Krishi Vidyapeeth	Rahuri
+469	289	Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidyalaya	Bhopal ...
+470	78	Malaviya National Institute of Technology, Jaipur	Jaipur
+471	839	Malwanchal University	Indore
+472	526	Manav Bharti University	Solan
+473	Un	Manav Rachna International Institute of Research and Studies	Faridabad
+474	Un	Manav Rachna University	Faridabad
+475	635	Mandsaur University	Mandsaur
+476	639	Mangalayatan University	Aligarh
+477	174	Mangalore University	Mangalore
+478	30	Manipal University	Manipal ...
+479	681	Manipur Technical University	Imphal
+480	320	Manipur University	Imphal
+481	870	Manipur University of Culture	Imphal
+482	199	Manonmaniam Sundaranar University	Tirunelveli
+483	698	Martin Luther Christian University	Shillong
+484	637	Marwadi University	Rajkot
+485	649	MATS University	Aarang
+486	99	Maulana Abul Kalam Azad University of Technology	Kolkata
+487	158	Maulana Azad National Institute of Technology	Bhopal
+488	229	Maulana Azad National Urdu University	Hyderabad
+489	836	Maulana Azad University, Jodhpur	Jodhpur
+490	581	Maulana Mazharul Haque Arabic and Persian University	Patna
+491	272	Medi-Caps University	Indore
+492	715	Meenakshi Academy of Higher Education and Research	Chennai
+493	481	Mewar University	Chittorgarh
+494	619	MGM Institute of Health Sciences	Navi Mumbai
+495	347	MIT Art Design and Technology University	Pune
+496	283	Mizoram University	Aizawl
+497	314	Mody University of Science and Technology	Lakshmangarh
+498	760	Mohammad Ali Jauhar University	Rampur
+499	125	Mohanlal Sukhadia University	Udaipur
+500	633	Monad University	Hapur
+501	337	Mother Teresa Women's University	Kodaikanal
+502	810	Motherhood University	Bhagwanpur
+503	31	Motilal Nehru National Institute of Technology	Allahabad
+504	557	MVN University	Palwal
+505	397	Nagaland University	Kohima
+506	310	Nalanda University	Rajgir
+507	326	NALSAR University of Law	Hyderabad
+508	683	Nanaji Deshmukh Veterinary Science University	Jabalpur
+509	123	Narendra Dev University of Agriculture and Technology	Faizabad
+510	58	Narsee Monjee Institute of Management and Higher Studies	Mumbai
+511	323	National Dairy Research Institute	Karnal ...
+512	59	National Institute of Design	Ahmedabad ...
+513	84	National Institute of Fashion Technology	New Delhi ...
+514	356	National Institute of Food Technology Entrepreneurship and Management	Sonipat
+515	147	National Institute of Mental Health and Neuro Sciences	Bangalore
+516	645	National Institute of Pharmaceutical Education and Research, Ahmedabad	Ahmedabad
+517	772	National Institute of Pharmaceutical Education and Research, Guwahati	Guwahati
+518	740	National Institute of Pharmaceutical Education and Research, Hajipur	Hajipur
+519	628	National Institute of Pharmaceutical Education and Research, Hyderabad	Hyderabad
+520	648	National Institute of Pharmaceutical Education and Research, Kolkata	Kolkata
+521	413	National Institute of Pharmaceutical Education and Research, Mohali	Mohali
+522	659	National Institute of Pharmaceutical Education and Research, Rae Bareli	Rae Bareli
+523	220	National Institute of Technology, Agartala	Agartala
+524	346	National Institute of Technology, Arunachal Pradesh	Yupia
+525	57	National Institute of Technology, Calicut	Calicut
+526	306	National Institute of Technology, Delhi	New Delhi
+527	93	National Institute of Technology, Durgapur	Durgapur
+528	275	National Institute of Technology, Goa	Farmagudi
+529	164	National Institute of Technology, Hamirpur	Hamirpur
+530	144	National Institute of Technology, Jamshedpur	Jamshedpur
+531	52	National Institute of Technology, Karnataka	Mangalore
+532	175	National Institute of Technology, Kurukshetra	Kurukshetra
+533	374	National Institute of Technology, Manipur	Imphal
+534	238	National Institute of Technology, Meghalaya	Shillong
+535	398	National Institute of Technology, Mizoram	Aizawl
+536	464	National Institute of Technology, Nagaland	Dimapur
+537	142	National Institute of Technology, Patna	Patna
+538	382	National Institute of Technology, Puducherry	Karaikal
+539	114	National Institute of Technology, Raipur	Raipur
+540	17	National Institute of Technology, Rourkela	Rourkela
+541	440	National Institute of Technology, Sikkim	Ravangla
+542	111	National Institute of Technology, Silchar	Silchar
+543	370	National Institute of Technology, Srinagar	Srinagar
+544	24	National Institute of Technology, Tiruchirappalli	Tiruchirappalli
+545	401	National Institute of Technology, Uttarakhand	Srinagar
+546	53	National Institute of Technology, Warangal	Warangal
+547	506	National Law Institute University	Bhopal
+548	135	National Law School of India University	Bangalore
+549	230	National Law University	New Delhi
+550	509	National Law University and Judicial Academy	Guwahati
+551	247	National Law University, Jodhpur	Jodhpur
+552	461	National Law University, Orissa	Cuttack
+553	74	National University of Educational Planning and Administration	New Delhi
+554	491	National University of Study and Research in Law	Ranchi
+555	608	Nava Nalanda Mahavihara	Bargaon
+556	569	Navrachana University	Vadodara
+557	403	Navsari Agricultural University	Navsari ...
+558	567	Nehru Gram Bharati Vishwavidyalaya	Allahabad
+559	746	NIILM University	Kaithal
+560	260	NIIT University	Neemrana
+561	530	Nilamber-Pitamber University	Medininagar
+562	394	NIMS University	Jaipur
+563	130	Nirma University of Science and Technology	Ahmedabad
+564	298	NITTE University	Mangalore
+565	266	Nizam's Institute of Medical Sciences	Hyderabad
+566	521	Noida International University	Greater Noida
+567	714	North East Frontier Technical University	Aalo
+568	102	North Eastern Hill University	Shillong ...
+569	296	North Eastern Regional Institute of Science and Technology	Itanagar
+570	131	North Maharashtra University	Jalgaon ...
+571	586	North Orissa University	Baripada
+572	244	O.P. Jindal Global University	Sonipat
+573	720	O.P. Jindal University	Raigarh
+574	502	OPJS University	Churu
+575	672	Oriental University	Indore
+576	344	Orissa University of Agriculture and Technology	Bhubaneswar
+577	51	Osmania University	Hyderabad
+578	833	P P Savani University	Kosamba
+579	838	P.K. University	Village Thanara
+580	849	Pacific Medical University	Udaipur
+581	543	Pacific University, India	Udaipur
+582	311	Padmashree Dr. D.Y. Patil Vidyapith	Navi Mumbai
+583	431	Palamuru University	Mahabubnagar
+584	233	Pandit Deendayal Petroleum University	Gandhinagar
+585	389	Pandit Deendayal Upadhyaya Shekhawati University	Sikar
+586	228	Pandit Ravishankar Shukla University	Raipur
+587	28	Panjab University	Chandigarh
+588	365	Parul University	Waghodia
+589	245	Patna University	Patna
+590	745	PDM University	Bahadurgarh
+591	163	PDPM Indian Institute of Information Technology, Design and Manufacturing	Jabalpur
+592	224	PEC University of Technology	Chandigarh
+593	603	People's University	Bhopal
+594	558	Periyar Maniammai University	Vallam ...
+595	211	Periyar University	Salem
+596	176	PES University	Bangalore
+597	798	Plastindia International University	Vapi
+598	46	Pondicherry University	Puducherry ...
+599	596	Ponnaiyan Ramajayam Institute of Science and Technology	Thanjavur
+600	503	Poornima University	Jaipur
+601	104	Post Graduate Institute of Medical Education and Research	Chandigarh
+602	507	Potti Sreeramulu Telugu University	Hyderabad
+603	837	Pragyan International University	Ranchi
+604	729	Pratap University	Jaipur
+605	354	Pravara Institute of Medical Sciences	Loni
+606	611	Presidency University	Bangalore
+607	216	Presidency University	Kolkata
+608	447	Professor Jayashankar Telangana State Agricultural University	Hyderabad
+609	248	Pt. Bhagwat Dayal Sharma University of Health Sciences	Rohtak
+610	170	Punjab Agricultural University	Ludhiana
+611	162	Punjab Technical University	Kapurthala
+612	157	Punjabi University	Patiala
+613	748	Quantum University	Roorkee
+614	383	Rabindra Bharati University	Kolkata
+615	710	Raffles University	Neemrana
+616	792	Rai Technology University	Doddaballapura
+617	487	Rai University	Dholka
+618	725	Raiganj University	Raiganj
+619	536	Raj Rishi Bharthari Matsya University	Alwar
+620	801	Raja Mansingh Tomar Music and Arts University	Gwalior
+621	141	Rajasthan Technical University Kota	Kota
+622	256	Rajasthan University of Health Sciences	Jaipur
+623	406	Rajasthan University of Veterinary and Animal Sciences	Bikaner
+624	395	Rajiv Gandhi Institute of Petroleum Technology	Raebareli
+625	863	Rajiv Gandhi National Aviation University	Raebareli
+626	362	Rajiv Gandhi National Institute of Youth Development	Sriperumbudur
+627	462	Rajiv Gandhi National University of Law	Patiala
+628	38	Rajiv Gandhi Proudyogiki Vishwavidyalaya	Bhopal ...
+629	342	Rajiv Gandhi University	Itanagar
+630	165	Rajiv Gandhi University of Health Sciences	Bangalore
+631	198	Rajiv Gandhi University of Knowledge Technologies	Hyderabad
+632	618	Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya	Gwalior
+633	704	Raksha Shakti University	Ahmedabad
+634	803	Rama Devi Women's University	Bhubaneswar
+635	638	Rama University	Kanpur
+636	483	Ramakrishna Mission Vivekananda University	Belur ...
+637	404	Ranchi University	Ranchi
+638	449	Rani Channamma University, Belagavi	Belagavi
+639	237	Rani Durgavati Vishwavidyalaya	Jabalpur
+640	770	Rani Lakshmi Bai Central Agricultural University	Jhansi
+641	853	Ras Bihari Bose Subharti University	Dehradun
+642	166	Rashtrasant Tukadoji Maharaj Nagpur University	Nagpur
+643	265	Rashtriya Sanskrit Sansthan University	New Delhi
+644	460	Rashtriya Sanskrit Vidyapeetha	Tirupati
+645	392	Ravenshaw University	Cuttack
+646	305	Rayalaseema University	Kurnool
+647	718	Rayat-Bahra University	Kharar
+648	424	REVA University	Bangalore
+649	660	RIMT University	Mandi Gobindgarh
+650	366	RK University	Rajkot
+651	621	RKDF University	Bhopal
+652	684	Sai Nath University	Ranchi
+653	857	Sai Tirupati University	Udaipur
+654	419	Sam Higginbottom Institute of Agriculture, Technology and Sciences	Allahabad
+655	330	Sambalpur University	Burla
+656	315	Sampurnanand Sanskrit Vishvavidyalaya	Varanasi
+657	764	Sanchi University of Buddhist-Indic Studies	Sanchi
+658	677	Sandip University	Mahiravani
+659	Un	Sandip University, Sijoul	Sijoul
+660	834	Sangai International University	Churachandpur
+661	739	Sangam University	Bhilwara
+662	243	Sanjay Gandhi Post Graduate Institute of Medical Sciences	Lucknow
+663	851	Sanjay Ghodawat University	Kolhapur
+664	842	Sankalchand Patel University	Visnagar
+665	671	Sanskriti University	Mathura
+666	819	Sant Baba Bhag Singh University	Jalandhar
+667	212	Sant Gadge Baba Amravati University	Amravati
+668	352	Sant Longowal Institute of Engineering and Technology	Sangrur
+669	546	Santosh University	Ghaziabad
+670	180	Sardar Patel University	Vallabh Vidyanagar
+671	336	Sardar Patel University of Police, Security and Criminal Justice	Jodhpur
+672	129	Sardar Vallabhbhai National Institute of Technology, Surat	Surat
+673	580	Sardar Vallabhbhai Patel University of Agriculture and Technology	Meerut
+674	349	Sardarkrushinagar Dantiwada Agricultural University	Palanpur
+675	505	Sarguja University	Ambikapur
+676	Un	Sarla Birla University	Ranchi
+677	793	Sarvepalli Radhakrishnan University	Bhopal
+678	76	SASTRA University	Thanjavur ...
+679	504	Satavahana University	Karimnagar
+680	351	Sathyabama University	Chennai
+681	108	Saurashtra University	Rajkot
+682	312	Saveetha University	Chennai
+683	10	Savitribai Phule Pune University	Pune
+684	442	School of Planning and Architecture, Bhopal	Bhopal
+685	350	School of Planning and Architecture, Delhi	New Delhi
+686	488	School of Planning and Architecture, Vijayawada	Vijayawada
+687	808	Seacom Skills University	Santiniketan
+688	160	Sharda University	Greater Noida
+689	871	Sharnbasva University	Gulbarga
+690	550	Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu	Jammu
+691	329	Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir	Srinagar
+692	359	Sher-i-Kashmir Institute of Medical Sciences	Srinagar
+693	153	Shiv Nadar University	Dadri
+694	86	Shivaji University	Kolhapur
+695	414	Shobhit University	Meerut
+696	448	Shoolini University of Biotechnology and Management Sciences	Solan
+697	500	Shree Guru Gobind Singh Tricentenary University	Gurgaon
+698	658	Shree Somnath Sanskrit University	Veraval
+699	378	Shreemati Nathibai Damodar Thackersey Women's University	Mumbai
+700	726	Shri Govind Guru University	Godhra
+701	846	Shri Guru Ram Rai Education Mission	Dehradun ...
+702	869	Shri Guru Ram Rai University	Dehradun
+703	654	Shri Jagannath Sanskrit Vishvavidyalaya	Puri
+704	584	Shri Jagdishprasad Jhabrmal Tibrewala University	Jhunjhunu
+705	463	Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha	New Delhi
+706	215	Shri Mata Vaishno Devi University	Katra
+707	647	Shri Ramswaroop Memorial University	Barabanki
+708	703	Shri Vaishnav Vidyapeeth Vishwavidyalaya	Indore
+709	694	Shri Venkateshwara University	Gajraula
+710	724	Shridhar University	Pilani
+711	626	Siddharth University	Kapilvastu
+712	519	Sidho Kanho Birsha University	Purulia ...
+713	624	Sido Kanhu Murmu University	Dumka
+714	214	Sikkim Manipal University	Gangtok
+715	308	Sikkim University	Tadong
+716	379	Siksha O Anusandhan University	Bhubaneswar
+717	420	Singhania University	Jhunjhunu
+718	601	Sir Padampat Singhania University	Udaipur
+719	225	South Asian University	New Delhi
+720	791	Spicer Adventist University	Pune
+721	192	Sree Chitra Thirunal Institute of Medical Sciences and Technology	Thiruvananthapuram
+722	531	Sree Sankaracharya University of Sanskrit	Kalady
+723	588	Sri Balaji Vidyapeeth	Puducherry
+724	384	Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya	Kanchipuram
+725	456	Sri Dev Suman Uttarakhand University	Tehri
+726	712	Sri Devaraj Urs Academy of Higher Education and Research	Kolar
+727	664	Sri Guru Granth Sahib World University	Fatehgarh Sahib
+728	856	Sri Guru Ram Das University of Health Sciences	Qila Jiwan Singh
+729	797	Sri Konda Laxman Telangana State Horticultural University	Hyderabad
+730	313	Sri Krishnadevaraya University	Anantapur ...
+731	421	Sri Padmavati Mahila Visvavidyalayam	Tirupati
+732	281	Sri Ramachandra University	Chennai
+733	765	Sri Sai University	Palampur
+734	417	Sri Sathya Sai Institute of Higher Learning	Anantapur
+735	632	Sri Satya Sai University of Technology and Medical Sciences	Sehore
+736	682	Sri Siddhartha Academy of Higher Education	Tumkur
+737	573	Sri Sri University	Cuttack
+738	402	Sri Venkateswara Institute of Medical Sciences	Tirupati
+739	190	Sri Venkateswara University	Tirupati
+740	709	Sri Venkateswara Vedic University	Tirupati
+741	574	Sri Venkateswara Veterinary University	Tirupati
+742	593	Srimanta Sankaradeva University of Health Sciences	Guwahati
+743	813	Srinivas University	Mangalore
+744	12	SRM Institute of Science and Technology	Chennai
+745	553	SRM University Haryana	Sonipat
+746	758	SRM University, Sikkim	Gangtok
+747	865	St. Joseph University	Dimapur
+748	630	St. Peter's University	Chennai
+749	788	St. Xavier's University	Kolkata
+750	826	Starex University	Gurgaon
+751	785	State University of Performing and Visual Arts	Rohtak
+752	782	Suamandeep Vidyapeeth	Vadodara
+753	564	Sunrise University	Alwar ...
+754	457	Suresh Gyan Vihar University	Jaipur
+755	470	Swami Keshwanand Rajasthan Agricultural University	Bikaner
+756	538	Swami Rama Himalayan University	Dehradun
+757	181	Swami Ramanand Teerth Marathwada University	Nanded
+758	458	Swami Vivekanand Subharti University	Meerut
+759	744	Swami Vivekanand University	Sagar
+760	400	Swami Vivekananda Yoga Anusandhana Samsthana	Bangalore
+761	689	Swarnim Gujarat Sports University	Gandhinagar
+762	843	Swarnim Startup and Innovation University	Gandhinagar
+763	167	Symbiosis International University	Pune
+764	666	Symbiosis University of Applied Sciences	Indore
+765	32	Tamil Nadu Agricultural University	Coimbatore ...
+766	430	Tamil Nadu Dr Ambedkar Law University	Chennai
+767	249	Tamil Nadu Dr. M.G.R.Medical University	Chennai
+768	515	Tamil Nadu Fisheries University	Nagapattinam
+769	866	Tamil Nadu Music and Fine Arts University	Chennai
+770	656	Tamil Nadu National Law School	Tiruchirappalli
+771	575	Tamil Nadu Physical Education and Sports University	Chennai
+772	334	Tamil Nadu Teacher Education University	Chennai
+773	276	Tamil Nadu Veterinary and Animal Sciences University	Chennai ...
+774	435	Tamil University	Thanjavur
+775	735	Tantia University	Sri Ganganagar
+776	25	Tata Institute of Fundamental Research	Mumbai
+777	21	Tata Institute of Social Sciences	Mumbai
+778	821	TeamLease Skills University	Tarsali
+779	702	Techno India University	Kolkata
+780	380	Teerthanker Mahaveer University	Moradabad
+781	479	Telangana University	Nizamabad
+782	257	TERI University	New Delhi
+783	40	Tezpur University	Tezpur
+784	81	Thapar Institute of Engineering and Technology	Patiala
+785	297	The English and Foreign Languages University	Hyderabad
+786	495	The IIS University	Jaipur
+787	399	The Indian Law Institute	New Delhi
+788	286	The LNM Institute of Information Technology	Jaipur
+789	121	The Maharaja Sayajirao University of Baroda	Vadodara
+790	554	The National University of Advanced Legal Studies	Kochi
+791	778	The Neotia University	Sarisha
+792	217	The Northcap University	Gurgaon ...
+793	850	The Sanskrit College and University	Kolkata
+794	191	The West Bengal National University of Juridical Sciences	Kolkata
+795	510	Thiruvalluvar University	Vellore
+796	695	Thunchath Ezhuthachan Malayalam University	Tirur
+797	368	Tilak Maharashtra Vidyapeeth	Pune
+798	376	Tilka Manjhi Bhagalpur University	Bhagalpur
+799	657	TransDisciplinary University	Bangalore
+800	236	Tripura University	Agartala
+801	517	Tumkur University	Tumkur
+802	663	U.P. Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Anusandhan Sansthan	Mathura
+803	429	UKA Tarsadia University	Surat
+804	730	University of Agricultural and Horticultural Sciences, Shivamogga	Shimoga
+805	302	University of Agricultural Sciences, Bangalore	Bangalore ...
+806	411	University of Agricultural Sciences, Dharwad	Dharwad
+807	661	University of Agricultural Sciences, Raichur	Raichur
+808	115	University of Allahabad	Allahabad
+809	89	University of Burdwan	Bardhaman
+810	68	University of Calcutta	Kolkata
+811	35	University of Calicut	Tenhipalam ...
+812	4	University of Delhi	New Delhi
+813	535	University of Engineering and Management, Kolkata	Kolkata
+814	261	University of Gour Banga	Malda
+815	610	University of Horticultural Sciences, Bagalkot	Bagalkot ...
+816	73	University of Hyderabad	Hyderabad
+817	203	University of Jammu	Jammu
+818	134	University of Kalyani	Kalyani
+819	124	University of Kashmir	Srinagar
+820	60	University of Kerala	Thiruvananthapuram
+821	282	University of Kota	Kota
+822	105	University of Lucknow	Lucknow
+823	69	University of Madras	Chennai
+824	19	University of Mumbai	Mumbai
+825	43	University of Mysore	Mysore ...
+826	208	University of North Bengal	Siliguri
+827	680	University of Patanjali	Haridwar
+828	26	University of Petroleum and Energy Studies	Dehradun
+829	34	University of Rajasthan	Jaipur
+830	667	University of Science and Technology, Meghalaya	Baridua
+831	250	University of Solapur	Solapur
+832	752	University of Technology	Jaipur
+833	641	University of Technology and Management	Shillong
+834	848	Usha Martin University	Ranchi
+835	321	Utkal University	Bhubaneswar
+836	690	Utkal University of Culture	Bhubaneswar
+837	617	Uttar Banga Krishi Viswavidyalaya	Pundibari
+838	774	Uttar Pradesh University of Medical Sciences	Saifai
+839	867	Uttarakhand Aawasiya Vishwavidyalaya	Almora
+840	492	Uttarakhand Ayurved University	Dehradun
+841	284	Uttarakhand Technical University	Dehradun
+842	629	Uttarakhand University of Horticulture and Forestry	Bharsar
+843	669	Uttaranchal Sanskrit University	Haridwar
+844	568	Uttaranchal University	Dehradun
+845	426	Vasantrao Naik Marathwada Krishi Vidyapeeth	Parbhani ...
+846	213	Veer Bahadur Singh Purvanchal University	Jaunpur
+847	562	Veer Kunwar Singh University	Arrah
+848	110	Veer Narmad South Gujarat University	Surat
+849	178	Veer Surendra Sai University of Technology	Sambalpur
+850	345	Vel Tech Dr.RR and Dr.SR Technical University	Chennai ...
+851	407	Vels University	Chennai
+852	189	Vidyasagar University	Midnapore
+853	343	Vignan University	Guntur
+854	537	Vijayanagara Sri Krishnadevaraya University	Bellary
+855	333	Vikram University	Ujjain
+856	348	Vikrama Simhapuri University	Nellore
+857	777	Vinayaka Missions Sikkim University	Gangtok
+858	299	Vinayaka Missions University	Salem
+859	301	Vinoba Bhave University	Hazaribag
+860	750	Vishwakarma University	Pune
+861	126	Visva-Bharati University	Santiniketan ...
+862	122	Visvesvaraya National Institute of Technology	Nagpur
+863	23	Visvesvaraya Technological University	Belgaum
+864	734	VIT Bhopal University	Bhopal
+865	6	VIT University	Vellore ...
+866	605	Vivekananda Global University	Jaipur
+867	388	West Bengal State University	Barasat
+868	583	West Bengal University of Animal and Fishery Sciences	Kolkata
+869	459	West Bengal University of Health Sciences	Kolkata
+870	512	West Bengal University of Teachers' Training, Education Planning and Administration	Kolkata
+871	809	William Carey University, India	Shillong
+872	831	William Carey University, Meghalaya	Shillong
+873	291	Xavier University Bhubaneswar	Harirajpur ...
+874	873	YBN University	Ranchi
+875	498	Yenepoya University	Mangalore
+876	364	YMCA University of Science and Technology	Faridabad
+877	408	Yogi Vemana University	Kadapa
+878	Legend: Un Unranked	Add a University	
